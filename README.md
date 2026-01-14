@@ -57,3 +57,14 @@ The dataset contains:
 ## 👤 Author
 **Deeksha M D**  
 Aspiring Data Scientist | Python | Power BI | SQL
+## 📊 Dashboard Preview
+
+### Overall Dashboard
+![Dashboard Overview](dashboard/dashboard_overview.png)
+
+### Sales Trend
+![Sales Trend](dashboard/dashboard_overview.png)
+
+### Region-wise Sales
+![Region Sales](dashboard/region_sales.png)
+
