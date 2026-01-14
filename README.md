@@ -59,17 +59,14 @@ The dataset contains:
 Aspiring Data Scientist | Python | Power BI | SQL
 ## 📊 Dashboard Preview
 
-### 📊 Overall Dashboard
-![Dashboard Overview](dashboard/dashboard_overview.png)
+### 🔹 Overall Dashboard
+![Dashboard Overview](./dashboard/dashboard_overview.png)
 
-### 📈 Sales Trend
-![Sales Trend](dashboard/sales_trend.png)
+### 🔹 Sales Trend
+![Sales Trend](./dashboard/sales_trend.png)
 
-### 📊 Region-wise Sales
-![Region Sales](dashboard/region_sales.png)
+### 🔹 Region-wise Sales
+![Region-wise Sales](./dashboard/region_sales.png)
 
----
-
-## 📁 Repository Structure
 
 
